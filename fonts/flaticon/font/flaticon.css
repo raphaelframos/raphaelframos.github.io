@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 20/03/2019 02:18
+  	Creation date: 12/06/2020 02:17
   	*/
 
 @font-face {
@@ -23,18 +23,20 @@
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
         font-size: 20px;
 font-style: normal;
 margin-left: 20px;
 }
 
-.flaticon-ideas:before { content: "\f100"; }
-.flaticon-flasks:before { content: "\f101"; }
-.flaticon-analysis:before { content: "\f102"; }
-.flaticon-ux-design:before { content: "\f103"; }
-.flaticon-web-design:before { content: "\f104"; }
-.flaticon-idea:before { content: "\f105"; }
-.flaticon-innovation:before { content: "\f106"; }
-.flaticon-teacher:before { content: "\f107"; }
+.flaticon-teacher:before { content: "\f100"; }
+.flaticon-web:before { content: "\f101"; }
+.flaticon-guitar:before { content: "\f102"; }
+.flaticon-android:before { content: "\f103"; }
+.flaticon-apple:before { content: "\f104"; }
+.flaticon-database-storage:before { content: "\f105"; }
+.flaticon-management:before { content: "\f106"; }
+.flaticon-college-graduation:before { content: "\f107"; }
+.flaticon-web-programming:before { content: "\f108"; }
+.flaticon-goal:before { content: "\f109"; }

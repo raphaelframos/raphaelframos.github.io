@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 20/03/2019 02:18
+    Creation date: 12/06/2020 02:17
     */
 
     @font-face {
@@ -37,20 +37,24 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-ideas:before { content: "\f100"; }
-.flaticon-flasks:before { content: "\f101"; }
-.flaticon-analysis:before { content: "\f102"; }
-.flaticon-ux-design:before { content: "\f103"; }
-.flaticon-web-design:before { content: "\f104"; }
-.flaticon-idea:before { content: "\f105"; }
-.flaticon-innovation:before { content: "\f106"; }
-.flaticon-teacher:before { content: "\f107"; }
-
-    $font-Flaticon-ideas: "\f100";
-    $font-Flaticon-flasks: "\f101";
-    $font-Flaticon-analysis: "\f102";
-    $font-Flaticon-ux-design: "\f103";
-    $font-Flaticon-web-design: "\f104";
-    $font-Flaticon-idea: "\f105";
-    $font-Flaticon-innovation: "\f106";
-    $font-Flaticon-teacher: "\f107";
+    .flaticon-teacher:before { content: "\f100"; }
+.flaticon-web:before { content: "\f101"; }
+.flaticon-guitar:before { content: "\f102"; }
+.flaticon-android:before { content: "\f103"; }
+.flaticon-apple:before { content: "\f104"; }
+.flaticon-database-storage:before { content: "\f105"; }
+.flaticon-management:before { content: "\f106"; }
+.flaticon-college-graduation:before { content: "\f107"; }
+.flaticon-web-programming:before { content: "\f108"; }
+.flaticon-goal:before { content: "\f109"; }
+    
+    $font-Flaticon-teacher: "\f100";
+    $font-Flaticon-web: "\f101";
+    $font-Flaticon-guitar: "\f102";
+    $font-Flaticon-android: "\f103";
+    $font-Flaticon-apple: "\f104";
+    $font-Flaticon-database-storage: "\f105";
+    $font-Flaticon-management: "\f106";
+    $font-Flaticon-college-graduation: "\f107";
+    $font-Flaticon-web-programming: "\f108";
+    $font-Flaticon-goal: "\f109";
